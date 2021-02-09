@@ -19,10 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="39334563-c5bd-47af-ac79-0fcb3509d9f7" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/updated-2.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="39334563-c5bd-47af-ac79-0fcb3509d9f7" name="Default Changelist" comment="Updated updated-2.html" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,8 +60,19 @@
       <workItem from="1604376578958" duration="1572000" />
       <workItem from="1604616228782" duration="1972000" />
       <workItem from="1604728100332" duration="207000" />
-      <workItem from="1612149169787" duration="1916000" />
+      <workItem from="1612149169787" duration="2096000" />
+      <workItem from="1612419748549" duration="1477000" />
+      <workItem from="1612422032557" duration="443000" />
+      <workItem from="1612845052426" duration="2287000" />
     </task>
+    <task id="LOCAL-00001" summary="Updated updated-2.html">
+      <created>1612151483602</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1612151483602</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -81,5 +89,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Updated updated-2.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated updated-2.html" />
   </component>
 </project>
